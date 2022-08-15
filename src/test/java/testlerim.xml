@@ -1,0 +1,35 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<suite name="My Suite">
+    <tests name="My Tests">
+
+        <test name="LanguageTest">
+            <classes>
+                <class name="LanguageTest"/>
+            </classes>
+
+        </test>
+
+        <test name="SearchTest">
+            <classes>
+                <class name="SearchTest"/>
+            </classes>
+        </test>
+
+        <test name="LinkTest">
+            <classes>
+                <class name="LinkTest"/>
+
+            </classes>
+
+        </test>
+
+        <test name="HomePageLinkTest">
+            <classes>
+                <class name="HomePageLinkTest"/>
+
+            </classes>
+
+        </test>
+
+    </tests>
+</suite>
